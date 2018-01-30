@@ -1,0 +1,9 @@
+
+public class LuDylanFiveMinuteQuestions {
+    public static void main(String[] args){
+    	int a = 5, b = 6;
+    	a += b += 8 + 9;
+    	System.out.println(a);
+    	System.out.println(1.2e-4);
+    }
+}

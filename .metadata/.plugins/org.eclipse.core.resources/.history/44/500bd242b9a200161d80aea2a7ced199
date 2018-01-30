@@ -1,0 +1,7 @@
+
+public class LuDylanFiveMinuteQuestions {
+    public static void main(String[] args){
+    	double a = 0;
+    	System.out.println(a);
+    }
+}
